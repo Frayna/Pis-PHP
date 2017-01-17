@@ -1,0 +1,30 @@
+		td
+		{
+			width : 5%;
+			border : 1px solid white;
+		}
+		h1
+		{
+			position : bottom;
+			font : 2px times, sans-serif;
+			text-align : left;
+			font-size : 2vw;
+			font-style : bold;
+			color : white;
+		}
+		h2
+		{
+			font : 4px times, sans-serif;
+			text-align : center;
+			font-size : 3vw;
+			font-style : bold;
+			color : white;
+		}
+		h3
+		{
+			font : 1px times, sans-serif;
+			text-align : right;
+			font-size : 1vw;
+			font-style : normal;
+			color : white;
+		}
